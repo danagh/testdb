@@ -2,12 +2,6 @@
   {"id": "480", "label": "Test 1", "objectType": "portfolio", "title": "Test 1"},
   {"id": "1", "label": "Test 2", "objectType": "portfolio", "title": "Test 2"},
   {"id": "486", "label": "Test 3", "objectType": "portfolio", "title": "Test 3"},
-  {"id": "2", "label": "Test 4", "objectType": "portfolio", "title": "Test 4"},
-  {"id": "318", "label": "Test 5", "objectType": "portfolio", "title": "Test 5"},
-  {"id": "505", "label": "Test 6", "objectType": "portfolio", "title": "Test 6"},
-  {"id": "853", "label": "Test 7", "objectType": "portfolio", "title": "Test 7"},
-  {"id": "4", "label": "Test 8", "objectType": "portfolio", "title": "Test 8"},
-  {"id": "8", "label": "Test 9", "objectType": "portfolio", "title": "Test 9"},
   {"id": null, "label": "807 more...", "objectType": "[pager]", "title": null},
   {"id": "/cairo/operations/operations/registration/portfolios/create?hideMenu=true", "label": "Add new", "objectType": "[add]", "title": null}
 ]
