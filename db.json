@@ -1,6 +1,8 @@
-[
-  {"id": "480", "label": "Test 1", "objectType": "portfolio", "title": "Test 1"},
-  {"id": "1", "label": "Test 2", "objectType": "portfolio", "title": "Test 2"},
-  {"id": null, "label": "807 more...", "objectType": "[pager]", "title": null},
-  {"id": "/cairo/operations/operations/registration/portfolios/create?hideMenu=true", "label": "Add new", "objectType": "[add]", "title": null}
-]
+{
+  "autocomplete": [
+    {"id": "480", "label": "Test 1", "objectType": "portfolio", "title": "Test 1"},
+    {"id": "1", "label": "Test 2", "objectType": "portfolio", "title": "Test 2"},
+    {"id": null, "label": "807 more...", "objectType": "[pager]", "title": null},
+    {"id": "/cairo/operations/operations/registration/portfolios/create?hideMenu=true", "label": "Add new", "objectType": "[add]", "title": null}
+  ]
+}
